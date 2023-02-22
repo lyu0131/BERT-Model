@@ -1,0 +1,6 @@
+# BERT-Model
+A multimodal event detection system.
+
+
+
+Faced with an increasing amount of unstructured multimodal data appearing on various social platforms (e.g., Twitter/Instagram), we seek to effectively understand the complex social events portrayed on these platforms. However, conventional information extraction systems cannot understand these data because they cannot handle real-world analysis or require extensive tuning and many manually annotated examples to suc- cessfully comprehend these events. To solve this problem, this paper de- velops a knowledge-oriented artificial intelligence system that can identify and analyze these data and complex events and bring them to the user’s attention. Our research aims to understand complex events described in multimedia inputs by developing a semi-automated system that identifies, links, and temporally sequences their subsidiary elements, the participants involved, as well as the complex event type. This project proposes a sys- tematic analysis of world events, such as the Boston Marathon bombing, Capital Riots, Covid-19, etc. We have successfully evaluated our system on various datasets and have shown significant improvement compared to other previous methods.
